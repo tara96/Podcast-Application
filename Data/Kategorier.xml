@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kategorier>
+  <Category>
+    <Namn>Humor</Namn>
+  </Category>
+  <Category>
+    <Namn>Politik</Namn>
+  </Category>
+  <Category>
+    <Namn>Historia</Namn>
+  </Category>
+  <Category>
+    <Namn>Dokumentärer</Namn>
+  </Category>
+  <Category>
+    <Namn>Nyheter</Namn>
+  </Category>
+</kategorier>
